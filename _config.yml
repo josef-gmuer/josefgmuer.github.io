@@ -1,6 +1,9 @@
 title: Josef Gmür
 logo: /cv_pic-modified_50.png
-Email: josefgmur@gmail.com
-Linkdin: https://www.linkedin.com/in/josef-gmuer/
+description: |
+  <a href="mailto:josefgmur@gmail.com">josefgmur@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/josef-gmuer/">LinkedIn</a>
 
 theme: jekyll-theme-minimal
+
+
