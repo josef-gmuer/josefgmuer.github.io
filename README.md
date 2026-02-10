@@ -13,7 +13,7 @@ Bachelors of Economics and Management, University of Geneva, 2024
 
 ## Global Carbon Pricing & Emissions Tracker
 
-This Excel dashboard explores how carbon pricing is being used globally to combat climate change. I analyzed World Bank and EU ETS data to compare carbon prices across countries, track adoption since 2010, and examine whether these policies are reducing emissions. Built with Power Query, pivot tables, and interactive slicers.
+This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions worldwide. Using World Bank State and Trends of Carbon Pricing (2024) and Climate Watch emissions data, I examined pricing trends from 2015-2024, compared carbon tax versus emissions trading systems, and explored the relationship between carbon prices and emissions. Built with Excel pivot tables, charts, and formulas.
 
 ![Carbon Pricing Dashboard](/exceldashboard.png)
 
