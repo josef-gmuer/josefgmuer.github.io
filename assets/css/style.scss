@@ -3,22 +3,23 @@
 
 @import "jekyll-theme-minimal";
 
-/* Hide "This project is maintained by" */
-header > p.view:first-of-type {
+/* Make profile picture smaller */
+header img {
+  max-width: 150px;
+}
+
+/* Hide "maintained by" text */
+header p.view {
   display: none;
 }
 
-/* Style the contact links */
+/* Show only the "View the Project on GitHub" link */
+header p.view:last-of-type {
+  display: block;
+}
+
+/* Style contact links */
 header > p:first-of-type a {
   display: block;
   margin-bottom: 10px;
-}
-
-header > p:first-of-type {
-  margin-bottom: 20px;
-}
-
-/* Fix bottom spacing */
-.credits {
-  margin-top: 15px;
 }
