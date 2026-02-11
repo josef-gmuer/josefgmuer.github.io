@@ -17,6 +17,14 @@ This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions 
 
 ![Carbon Pricing Dashboard](/carbondashboard.png)
 
+**[📊 Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboard.xlsx)**
+
+### File Structure
+- `Dashboard` - Main visualization sheet with charts and KPIs
+- `Data_Pricing` - Carbon pricing observations across 73 jurisdictions
+- `Data_Emissions` - Emissions observations across 70 jurisdictions
+- `Analysis` - Combined dataset for cross-analysis
+
 ## European Energy Transition Dashboard
 
 This Power BI dashboard tracks Europe's shift from fossil fuels to renewable energy across major EU countries. Using ENTSO-E electricity data, I analyzed generation mix trends from 2015-2024, mapped renewable energy share by country, and visualized cross-border electricity flows. The dashboard uses interactive slicers and dynamic charts to explore how solar and wind capacity has grown while coal generation has declined across the continent.
