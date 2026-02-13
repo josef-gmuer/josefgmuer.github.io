@@ -25,6 +25,8 @@ This Python project analyzes Swiss economic indicators using SNB and Federal Sta
 
 ![Swiss Macro Overlook](/swiss_macro_dashboard_REAL.png)
 
+View the Colab file here: [Swiss Macro](https://colab.research.google.com/drive/1DuignLemXO6gkJ6YAmvphgRN-iYCax_T?usp=sharing)
+
 
 ## Global Carbon Pricing & Emissions Tracker
 
