@@ -16,7 +16,7 @@ This Power BI dashboard provides an overview of Europe’s electricity generatio
 
 ![European Energy Dashboard](/PowerBIpic.png)
 
-**[📊 Download PowerBI_project.pbix](PowerBI_project.pbix)**
+**[Download PowerBI_project.pbix](PowerBI_project.pbix)**
 
 
 ## Swiss Economic Policy Analysis
@@ -34,7 +34,7 @@ This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions 
 
 ![Carbon Pricing Dashboard](/carbondashboard.png)
 
-**[📊 Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboard.xlsx)**
+**[Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboard.xlsx)**
 
 ### File Structure
 - `Dashboard` - Main visualization sheet with charts and KPIs
