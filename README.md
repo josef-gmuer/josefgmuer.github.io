@@ -12,7 +12,7 @@ Bachelors of Economics and Management, University of Geneva, 2024
 
 ## European Energy Dashboard
 
-This Power BI dashboard provides an overview of Europe’s electricity generation and cross-border power flows. Using ENTSO-E data, it visualizes total generation by energy source (including nuclear, fossil gas, coal, hydro, wind, solar, and biomass), highlights nuclear power generation since 2023, and maps electricity trade flows between countries from 2019 onward. Interactive visuals allow users to compare energy mixes, analyze generation volumes in GWh, and explore how interconnected European electricity markets distribute power across borders.
+This Power BI dashboard provides an overview of Europe's electricity generation and cross-border power flows. Using ENTSO-E data, it visualizes total generation by energy source, highlights nuclear power generation since 2019, and maps electricity trade flows between countries. Interactive visuals allow users to compare energy mixes, analyze generation volumes in GWh, and explore interconnected European electricity markets. Dedicated pages analyze Germany's energy flows and generation, and the shift in Ukraine's electricity imports following the 2022 Russian invasion.
 
 ![European Energy Dashboard](/powerbipic1.png)
 
