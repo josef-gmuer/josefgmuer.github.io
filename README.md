@@ -37,7 +37,11 @@ This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions 
 **[Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboardupdate.xlsx)**
 
 ### File Structure
-- `Dashboard` - Main visualization sheet with charts and KPIs
-- `Data_Pricing` - Carbon pricing observations across 73 jurisdictions
-- `Data_Emissions` - Emissions observations across 70 jurisdictions
-- `Analysis` - Combined dataset for cross-analysis
+- `Dashboard` — Interactive KPIs and regional breakdown table
+- `Data_Pricing` — Raw carbon price observations (nominal and real 2023 USD) across 63 jurisdictions
+- `Data_Emissions` — Emissions time series (MtCO2) with YoY changes and 2015 base index
+- `Analysis` — Merged panel dataset with log-transformed variables and revenue proxies, structured for econometric analysis
+- `Econ_Analysis` — Descriptive statistics, price trends (2015–2023), and carbon tax vs. ETS comparison
+- `Chart_PriceTrends` — Source data for average price trends by policy type and region
+- `Chart_Scatter` — Latest-year price vs. emissions data by jurisdiction
+- `Chart_Heatmap` — Jurisdiction-by-year price matrix for heatmap visualization
