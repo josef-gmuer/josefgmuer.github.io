@@ -32,9 +32,9 @@ View the Colab file here: [Swiss Macro](https://colab.research.google.com/drive/
 
 This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions worldwide. Using World Bank State and Trends of Carbon Pricing (2024) and Climate Watch emissions data, I examined pricing trends from 2015-2024, compared carbon tax versus emissions trading systems, and explored the relationship between carbon prices and emissions. Built with Excel pivot tables, charts, and formulas.
 
-![Carbon Pricing Dashboard](/carbondashboard.png)
+![Carbon Pricing Dashboard](/excelupdate.png)
 
-**[Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboard.xlsx)**
+**[Download Carbon_Pricing_Dashboard.xlsx](Carbon_Pricing_Dashboardupdate.xlsx)**
 
 ### File Structure
 - `Dashboard` - Main visualization sheet with charts and KPIs
