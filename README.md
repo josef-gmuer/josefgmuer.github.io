@@ -45,3 +45,9 @@ Carbon pricing is widely seen as the most efficient tool for reducing emissions,
 - `Chart_PriceTrends` — Average price trends by policy type and region
 - `Chart_Scatter` — Latest year price vs. emissions data by jurisdiction
 - `Chart_Heatmap` — Jurisdiction-by-year price matrix for heatmap visualization
+
+## US Airline Market Dynamics (2010–2024) (In Progress)
+
+The US domestic airline industry has undergone dramatic consolidation over the past 15 years, yet the effects on competition, fares, and route coverage remain difficult to assess without granular data. Using the DOT's DB1B 10% ticket sample, covering 2,800+ routes and 23 carriers from 2010 to 2024, I am building an interactive Power BI dashboard to track how market structure, pricing, and passenger volumes have evolved over time. The dashboard will cover market trends, carrier competition dynamics, route analysis, and the COVID impact and recovery across the network.
+
+![Airline Dashboard](/airtraveldash.png)
