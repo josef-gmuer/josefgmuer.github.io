@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-**Technical Skills: R, Python, PowerBI, Excel**
+**Technical Skills: R, Python, PowerBI, Excel, SQL**
 
 # Education
 
